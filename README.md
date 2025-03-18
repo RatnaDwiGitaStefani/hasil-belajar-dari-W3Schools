@@ -1,7 +1,8 @@
-## hasil-belajar-dari-W3Schools
-## HTML Tutorial
-## ___________________________________________
-### HTML Editors
+<h1>hasil-belajar-dari-W3Schools</h1>
+<h2>HTML Tutorial</h2>
+<h1> _____________________________________________ </h1>
+
+<h3>HTML Editors</h3> 
 <!DOCTYPE html>
 <html>
 <body>
